@@ -13,26 +13,30 @@
 
 <div align="center">
 
-<code>[ 01 // WHOAMI ]</code>
-OPERATOR: Bhuvanesh Kumar
-EDUCATION: B.Sc. Computer Science
-MISSION: Professional Penetration Tester
-CURRENT MODE: Learn · Build · Test · Document
+<code>[ 01 // WHOAMI ]</code><br>
+OPERATOR: Bhuvanesh Kumar<br>
+EDUCATION: B.Sc. Computer Science<br>
+MISSION: Professional Penetration Tester<br>
+CURRENT MODE: Learn · Build · Test · Document<br>
 </div>
 
 I’m a computer science graduate interested in programming, networking, full-stack development, and ethical hacking. I enjoy learning by building practical tools and exploring how applications and networks work.
+```
 ┌─[ PROFILE / SUMMARY ]─────────────────────────────────────────┐
 │  > CODE     : Python · Java · C · C++ · Full-stack development │
 │  > SYSTEMS  : Networking · IP addressing · Ports · Protocols   │
 │  > SECURITY : Reconnaissance · Security tools · Ethical hacking │
 │  > OBJECTIVE: Grow into a professional penetration tester      │
 └────────────────────────────────────────────────────────────────┘
+```
+```
 Operating principle: Understand the system → test only within scope → validate evidence → document clearly → help improve security.
+```
 <img src="./skills.svg" width="100%" alt="Animated green cybersecurity skills card"/>
 
 <div align="center">
 
-<code>[ 02 // SKILL MATRIX ]</code>
+<code>[ 02 // SKILL MATRIX ]</code><br><br>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,git,github,vscode&theme=dark" alt="Programming and development icons"/>
 
 </div>
@@ -123,18 +127,19 @@ PRACTICE FOUNDATIONS HANDS-ON LEARNING
 
 <div align="center">
 
-<code>[ 04 // LEARNING ROADMAP ]</code>
+<code>[ 04 // LEARNING ROADMAP ]</code><br>
 </div>
 
-[ COMPLETE ]  Build programming fundamentals
-[ ACTIVE   ]  Practice Python and networking utilities
-[ ACTIVE   ]  Explore security tools and assessment workflows
-[ NEXT     ]  Strengthen web application and network testing skills
-[ TARGET   ]  Become a professional penetration tester
+[ COMPLETE ]  Build programming fundamentals<br>
+[ ACTIVE   ]  Practice Python and networking utilities<br>
+[ ACTIVE   ]  Explore security tools and assessment workflows<br>
+[ NEXT     ]  Strengthen web application and network testing skills<br>
+[ TARGET   ]  Become a professional penetration tester<br>
+
 I’m focused on consistent hands-on learning, documenting what I build, and improving the quality and clarity of my projects. Security testing should always be performed with clear authorization and a defined scope.
 <div align="center">
 
-<code>[ 05 // CONNECT ]</code>
+<code>[ 05 // CONNECT ]</code><br>
 <a href="https://github.com/Bhuvaneshkumar1"><img src="https://img.shields.io/badge/GITHUB-07130D?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub profile"/></a>
 <a href="https://www.linkedin.com/in/m-bhuvanesh-kumar/"><img src="https://img.shields.io/badge/LINKEDIN-07130D?style=for-the-badge&logo=linkedin&logoColor=39FF88" alt="LinkedIn profile"/></a>
 <a href="mailto:bhuvanesh.muneeswaran10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-07130D?style=for-the-badge&logo=gmail&logoColor=39FF88" alt="Email"/></a>
