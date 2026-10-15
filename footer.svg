@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150">
+<defs><linearGradient id="f"><stop stop-color="#052e16"/><stop offset=".5" stop-color="#064e3b"/><stop offset="1" stop-color="#020805"/></linearGradient>
+<style>@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}@keyframes crawl{to{stroke-dashoffset:-100}}.line{animation:crawl 8s linear infinite;stroke-dasharray:8 10}.text{font-family:'Comic Sans MS','Segoe Print','Bradley Hand',cursive}.mono{font-family:'Courier New',monospace}.pulse{animation:pulse 2.4s infinite}@media(prefers-reduced-motion:reduce){.line,.pulse{animation:none}}</style></defs>
+<rect width="1000" height="150" rx="20" fill="url(#f)"/>
+<path d="M20 30H980 M20 120H980" stroke="#22c55e" stroke-opacity=".5" class="line"/>
+<text x="500" y="70" text-anchor="middle" class="text" font-size="29" fill="#ecfdf5">Stay curious. Build with purpose.</text>
+<text x="500" y="98" text-anchor="middle" class="mono pulse" font-size="14" fill="#4ade80">TEST ETHICALLY  //  KEEP LEARNING  //  IMPROVE CONTINUOUSLY</text>
+</svg>
